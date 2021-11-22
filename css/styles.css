@@ -1,5 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@100&display=swap');
+
 html {
     background-color: black;
+    font-family: Exo;
+    font-weight: 600;
 }
 
 body {
