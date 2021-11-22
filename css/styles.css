@@ -38,6 +38,25 @@ body {
     font-size: 25px;
 }
 
+.project {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 15px;
+    padding: 15px;
+}
+
+.projects h1 {
+    text-decoration: underline;
+}
+
+.project h2 {
+    font-size: 20px;
+}
+
+.project a {
+    text-decoration: none;
+}
+
 .bottom {
     padding: 15px;
     background-color: #f9f3f3;
