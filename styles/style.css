@@ -1,0 +1,45 @@
+html {
+    background-color: black;
+}
+
+body {
+    width: 970px;
+    height: auto;
+    margin: 0px auto;
+    background-color: white;
+    text-align: center;
+}
+
+.top {
+    background-color: #f9f3f3;
+    padding: 15px;
+}
+
+.top-code {
+    height: 300px;
+    width: 700px;
+    /* Center image */
+    margin: 10px auto 20px;
+    display: block;
+}
+
+.top h1, h2 {
+    text-align: center;
+    font-size: 40px;
+}
+
+.middle {
+    padding: 15px;
+    font-size: 25px;
+}
+
+.bottom {
+    padding: 15px;
+    background-color: #f9f3f3;
+}
+
+.bottom a {
+    text-decoration: none;
+    margin: 15px;
+    font-size: 18px;
+}
