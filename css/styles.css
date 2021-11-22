@@ -15,7 +15,8 @@ body {
 }
 
 .top {
-    background-color: #f9f3f3;
+    /* background-color: #f9f3f3; */
+    background: linear-gradient(to right, #3f015c, #972626ab);
     padding: 15px;
 }
 
