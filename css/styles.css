@@ -22,31 +22,32 @@ body {
 
 .top-code {
     height: 300px;
-    width: 700px;
+    width: 100%;
     /* Center image */
     margin: 10px auto 20px;
     display: block;
 }
 
-.top h1, h2 {
+.top h1 {
     text-align: center;
     font-size: 40px;
 }
 
 .middle {
     padding: 15px;
-    font-size: 25px;
+    font-size: 20px;
 }
 
 .project {
     display: flex;
     justify-content: space-evenly;
-    font-size: 15px;
-    padding: 15px;
+    font-size: 18px;
+    padding: 0px, 15px;
 }
 
 .projects h1 {
     text-decoration: underline;
+    font-size: 30px;
 }
 
 .project h2 {
@@ -66,4 +67,9 @@ body {
     text-decoration: none;
     margin: 15px;
     font-size: 18px;
+}
+
+.signature {
+    margin-top: 15px;
+    font-size: 12px;
 }
