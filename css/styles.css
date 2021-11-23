@@ -36,6 +36,7 @@ body {
 .middle {
     padding: 15px;
     font-size: 20px;
+    margin-top: 30px;
 }
 
 #headshot {
@@ -46,7 +47,7 @@ body {
 
 .project {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     font-size: 18px;
     padding: 0px, 15px;
 }
@@ -54,6 +55,7 @@ body {
 .projects h1 {
     text-decoration: underline;
     font-size: 30px;
+    margin-top: 40px;
 }
 
 .project h2 {
