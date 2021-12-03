@@ -65,6 +65,22 @@ h1, h2 {
     margin-top: 40px;
 }
 
+#coding {
+    height: 450px;
+    width: 850px;
+    /* Center image */
+    margin: 10px auto 20px;
+    display: block;
+}
+
+#group {
+    height: 450px;
+    width: 850px;
+    /* Center image */
+    margin: 10px auto 20px;
+    display: block;
+}
+
 .project {
     display: flex;
     justify-content: space-between;
