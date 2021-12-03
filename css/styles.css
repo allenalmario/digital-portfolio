@@ -24,14 +24,6 @@ h1, h2 {
     padding: 15px;
 }
 
-.top-code {
-    height: 300px;
-    width: 100%;
-    /* Center image */
-    margin: 10px auto 20px;
-    display: block;
-}
-
 .top h1 {
     text-align: center;
     font-size: 40px;
