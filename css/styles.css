@@ -98,6 +98,10 @@ h1, h2 {
     text-decoration: underline;
 }
 
+#resumepdf {
+    text-align: center;
+}
+
 .bottom {
     padding: 15px;
     background-color: #f9f3f3;
